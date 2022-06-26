@@ -1,7 +1,7 @@
 README
 ======
 
-# Transistor - Simple Radio App
+# Radio App
 
 **Version 4.1.x ("Modern Love")**
 
